@@ -2,7 +2,7 @@
 
 Also see: [notebook.ipynb](notebook.ipynb)
 
-## Refs.
+## Link
 
 - Download Kaggle Datasets: [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - Reference: [Dealing with Imbalanced Datasets](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets) by Janio Martinez Bachmann
